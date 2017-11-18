@@ -35,7 +35,6 @@ textarea {
 }
 .red-content {
     width: 100%;
-    height: 300px;
     background: red;
     color: #fff;
 }
@@ -45,7 +44,6 @@ textarea {
         padding-right: 300px;
     }
     .red {
-        width: 750px;
         position: absolute;
         left: 50%;
         top: 0;
